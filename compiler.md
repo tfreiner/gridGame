@@ -42,4 +42,6 @@ layout: default
 > * comp is the executable produced by the makefile.
 > * The file extensions must be .4280E02.
 >
-> Check out the [GitHub repo](jekyll-gh) to see more.
+> Check out the [GitHub repo][jekyll-gh] to see more.
+
+[jekyll-gh]: https://github.com/tfreiner/compiler
