@@ -5,7 +5,8 @@ layout: default
 # TBL Android Application
 
 > A team-based learning application in which students can collaborate by taking a group quiz on their phones.
-> The app communicates with an API to pull the quizzes for the day that the students will take in their groups.
+> The app communicates with an API to access the quizzes based on the user's id, a quiz token, the current course, and the user's group.
+> After the quiz is completed, it is sent to the API and stored in the database.
 >
 >
 > <img class="android" src="/CourseList.png" height="400" />
